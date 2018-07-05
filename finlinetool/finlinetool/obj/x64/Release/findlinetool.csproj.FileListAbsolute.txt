@@ -1,0 +1,9 @@
+C:\Users\shihjia\Documents\Visual Studio 2012\Projects\finlinetool\finlinetool\bin\x64\Release\finlinetool.exe.config
+C:\Users\shihjia\Documents\Visual Studio 2012\Projects\finlinetool\finlinetool\bin\x64\Release\finlinetool.exe
+C:\Users\shihjia\Documents\Visual Studio 2012\Projects\finlinetool\finlinetool\bin\x64\Release\finlinetool.pdb
+C:\Users\shihjia\Documents\Visual Studio 2012\Projects\finlinetool\finlinetool\obj\x64\Release\findlinetool.csprojResolveAssemblyReference.cache
+C:\Users\shihjia\Documents\Visual Studio 2012\Projects\finlinetool\finlinetool\obj\x64\Release\findlinetool.Form1.resources
+C:\Users\shihjia\Documents\Visual Studio 2012\Projects\finlinetool\finlinetool\obj\x64\Release\findlinetool.Properties.Resources.resources
+C:\Users\shihjia\Documents\Visual Studio 2012\Projects\finlinetool\finlinetool\obj\x64\Release\findlinetool.csproj.GenerateResource.Cache
+C:\Users\shihjia\Documents\Visual Studio 2012\Projects\finlinetool\finlinetool\obj\x64\Release\finlinetool.exe
+C:\Users\shihjia\Documents\Visual Studio 2012\Projects\finlinetool\finlinetool\obj\x64\Release\finlinetool.pdb

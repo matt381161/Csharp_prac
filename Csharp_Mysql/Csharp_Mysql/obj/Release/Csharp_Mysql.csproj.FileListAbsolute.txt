@@ -1,0 +1,15 @@
+c:\users\shihjia\documents\visual studio 2012\Projects\Csharp_Mysql\Csharp_Mysql\bin\Release\Csharp_Mysql.exe.config
+c:\users\shihjia\documents\visual studio 2012\Projects\Csharp_Mysql\Csharp_Mysql\bin\Release\Csharp_Mysql.exe
+c:\users\shihjia\documents\visual studio 2012\Projects\Csharp_Mysql\Csharp_Mysql\bin\Release\Csharp_Mysql.pdb
+c:\users\shihjia\documents\visual studio 2012\Projects\Csharp_Mysql\Csharp_Mysql\bin\Release\MySql.Data.Entity.EF6.dll
+c:\users\shihjia\documents\visual studio 2012\Projects\Csharp_Mysql\Csharp_Mysql\bin\Release\MySQL.Data.EntityFrameworkCore.Design.dll
+c:\users\shihjia\documents\visual studio 2012\Projects\Csharp_Mysql\Csharp_Mysql\bin\Release\MySQL.Data.EntityFrameworkCore.dll
+c:\users\shihjia\documents\visual studio 2012\Projects\Csharp_Mysql\Csharp_Mysql\bin\Release\MySql.Data.Entity.EF6.xml
+c:\users\shihjia\documents\visual studio 2012\Projects\Csharp_Mysql\Csharp_Mysql\bin\Release\MySQL.Data.EntityFrameworkCore.xml
+c:\users\shihjia\documents\visual studio 2012\Projects\Csharp_Mysql\Csharp_Mysql\bin\Release\MySQL.Data.EntityFrameworkCore.Design.xml
+c:\users\shihjia\documents\visual studio 2012\Projects\Csharp_Mysql\Csharp_Mysql\obj\Release\Csharp_Mysql.csprojResolveAssemblyReference.cache
+c:\users\shihjia\documents\visual studio 2012\Projects\Csharp_Mysql\Csharp_Mysql\obj\Release\Csharp_Mysql.Register.resources
+c:\users\shihjia\documents\visual studio 2012\Projects\Csharp_Mysql\Csharp_Mysql\obj\Release\Csharp_Mysql.Properties.Resources.resources
+c:\users\shihjia\documents\visual studio 2012\Projects\Csharp_Mysql\Csharp_Mysql\obj\Release\Csharp_Mysql.csproj.GenerateResource.Cache
+c:\users\shihjia\documents\visual studio 2012\Projects\Csharp_Mysql\Csharp_Mysql\obj\Release\Csharp_Mysql.exe
+c:\users\shihjia\documents\visual studio 2012\Projects\Csharp_Mysql\Csharp_Mysql\obj\Release\Csharp_Mysql.pdb

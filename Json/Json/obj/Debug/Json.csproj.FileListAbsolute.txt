@@ -1,0 +1,11 @@
+c:\users\shihjia\documents\visual studio 2012\Projects\Json\Json\bin\Debug\Json.exe.config
+c:\users\shihjia\documents\visual studio 2012\Projects\Json\Json\bin\Debug\Json.exe
+c:\users\shihjia\documents\visual studio 2012\Projects\Json\Json\bin\Debug\Json.pdb
+c:\users\shihjia\documents\visual studio 2012\Projects\Json\Json\bin\Debug\Newtonsoft.Json.dll
+c:\users\shihjia\documents\visual studio 2012\Projects\Json\Json\bin\Debug\Newtonsoft.Json.pdb
+c:\users\shihjia\documents\visual studio 2012\Projects\Json\Json\bin\Debug\Newtonsoft.Json.xml
+c:\users\shihjia\documents\visual studio 2012\Projects\Json\Json\obj\Debug\Json.csprojResolveAssemblyReference.cache
+c:\users\shihjia\documents\visual studio 2012\Projects\Json\Json\obj\Debug\Json.Properties.Resources.resources
+c:\users\shihjia\documents\visual studio 2012\Projects\Json\Json\obj\Debug\Json.csproj.GenerateResource.Cache
+c:\users\shihjia\documents\visual studio 2012\Projects\Json\Json\obj\Debug\Json.exe
+c:\users\shihjia\documents\visual studio 2012\Projects\Json\Json\obj\Debug\Json.pdb

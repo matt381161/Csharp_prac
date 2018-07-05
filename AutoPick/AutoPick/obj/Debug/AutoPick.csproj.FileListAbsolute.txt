@@ -1,0 +1,9 @@
+c:\users\shihjia\documents\visual studio 2012\Projects\AutoPick\AutoPick\bin\Debug\AutoPick.exe.config
+c:\users\shihjia\documents\visual studio 2012\Projects\AutoPick\AutoPick\obj\Debug\AutoPick.csprojResolveAssemblyReference.cache
+c:\users\shihjia\documents\visual studio 2012\Projects\AutoPick\AutoPick\obj\Debug\AutoPick.Properties.Resources.resources
+c:\users\shihjia\documents\visual studio 2012\Projects\AutoPick\AutoPick\obj\Debug\AutoPick.csproj.GenerateResource.Cache
+c:\users\shihjia\documents\visual studio 2012\Projects\AutoPick\AutoPick\obj\Debug\AutoPick.Form1.resources
+c:\users\shihjia\documents\visual studio 2012\Projects\AutoPick\AutoPick\bin\Debug\AutoPick.exe
+c:\users\shihjia\documents\visual studio 2012\Projects\AutoPick\AutoPick\bin\Debug\AutoPick.pdb
+c:\users\shihjia\documents\visual studio 2012\Projects\AutoPick\AutoPick\obj\Debug\AutoPick.exe
+c:\users\shihjia\documents\visual studio 2012\Projects\AutoPick\AutoPick\obj\Debug\AutoPick.pdb

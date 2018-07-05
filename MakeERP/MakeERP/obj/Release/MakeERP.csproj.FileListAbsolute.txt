@@ -1,0 +1,9 @@
+c:\users\shihjia\documents\visual studio 2012\Projects\MakeERP\MakeERP\bin\Release\MakeERP.exe.config
+c:\users\shihjia\documents\visual studio 2012\Projects\MakeERP\MakeERP\bin\Release\MakeERP.exe
+c:\users\shihjia\documents\visual studio 2012\Projects\MakeERP\MakeERP\bin\Release\MakeERP.pdb
+c:\users\shihjia\documents\visual studio 2012\Projects\MakeERP\MakeERP\obj\Release\MakeERP.Form1.resources
+c:\users\shihjia\documents\visual studio 2012\Projects\MakeERP\MakeERP\obj\Release\MakeERP.Properties.Resources.resources
+c:\users\shihjia\documents\visual studio 2012\Projects\MakeERP\MakeERP\obj\Release\MakeERP.csproj.GenerateResource.Cache
+c:\users\shihjia\documents\visual studio 2012\Projects\MakeERP\MakeERP\obj\Release\MakeERP.exe
+c:\users\shihjia\documents\visual studio 2012\Projects\MakeERP\MakeERP\obj\Release\MakeERP.pdb
+c:\users\shihjia\documents\visual studio 2012\Projects\MakeERP\MakeERP\obj\Release\MakeERP.csprojResolveAssemblyReference.cache

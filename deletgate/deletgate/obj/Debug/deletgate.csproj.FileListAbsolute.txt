@@ -1,0 +1,9 @@
+c:\users\shihjia\documents\visual studio 2012\Projects\deletgate\deletgate\bin\Debug\deletgate.exe.config
+c:\users\shihjia\documents\visual studio 2012\Projects\deletgate\deletgate\bin\Debug\deletgate.exe
+c:\users\shihjia\documents\visual studio 2012\Projects\deletgate\deletgate\bin\Debug\deletgate.pdb
+c:\users\shihjia\documents\visual studio 2012\Projects\deletgate\deletgate\obj\Debug\deletgate.csprojResolveAssemblyReference.cache
+c:\users\shihjia\documents\visual studio 2012\Projects\deletgate\deletgate\obj\Debug\deletgate.Form1.resources
+c:\users\shihjia\documents\visual studio 2012\Projects\deletgate\deletgate\obj\Debug\deletgate.Properties.Resources.resources
+c:\users\shihjia\documents\visual studio 2012\Projects\deletgate\deletgate\obj\Debug\deletgate.csproj.GenerateResource.Cache
+c:\users\shihjia\documents\visual studio 2012\Projects\deletgate\deletgate\obj\Debug\deletgate.exe
+c:\users\shihjia\documents\visual studio 2012\Projects\deletgate\deletgate\obj\Debug\deletgate.pdb
